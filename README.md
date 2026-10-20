@@ -30,6 +30,10 @@ In the Flexo PDF app, set:
 - Privacy: `https://kamran-pervez.github.io/flexopdf-legal/privacy.html`
 - Terms: `https://kamran-pervez.github.io/flexopdf-legal/terms.html`
 
-## Note
+## Before store release
 
-These documents are templates for transparency and store listings. Review them before release; they are not legal advice.
+1. Replace every `support@example.com` placeholder with your public support email.
+2. Optionally set a specific governing-law country in `terms.html`.
+3. Update the Privacy Policy again if you enable Crashlytics or other network services.
+
+These pages are written for Flexo PDF’s current on-device design. They are not legal advice; have them reviewed if you need formal counsel.
